@@ -25,7 +25,7 @@ sections:
           gathering international.
         content_align: left
         image: images/2-days.svg
-        image_position: left
+        image_position: bottom
         image_width: twenty-five
         image_alt: Hahaha
       - title: 2 Tracks
