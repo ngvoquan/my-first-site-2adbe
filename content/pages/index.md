@@ -27,6 +27,7 @@ sections:
         image: images/2-days.svg
         image_position: left
         image_width: twenty-five
+        image_alt: Hahaha
       - title: 2 Tracks
         title_align: left
         content: Two tracks conference for curious developers.
